@@ -7,7 +7,7 @@ package java12;
 
 /**
  *
- * @author lenovo
+ * @author windluffy
  */
 public class Sole {
 
