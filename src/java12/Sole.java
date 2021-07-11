@@ -10,7 +10,7 @@ package java12;
  *
  * @author lenovo
  */
-public class Java12 {
+public class Sole {
 
     /**
      * @param args the command line arguments
